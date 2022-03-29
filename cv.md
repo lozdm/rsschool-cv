@@ -1,26 +1,19 @@
 ## DZMITRY LAZOUSKI 
-____________________
-
+___________________________________ 
 ## Contacts 
-
 Location: Brest, Belarus
 Phone: +375297242898
-E-mail: lozdm@yandex.ru
+E-mail: lozdm@yandex.ru  
 __________________________________
 
 ## About me 
-___________________________________
-
 I work in a small software company as a software engineer and I want to gain new knowledge and skills.
-
+________________________________________
 ## Skills 
-__________________________________________
-
-I have programming skills in Visual Foxpro.
+I have programming skills in Visual Foxpro. 
 ________________________________
  
 ## Code example 
-__________________________________
 ```
 function highAndLow(numbers){
   let maxnum = 0
@@ -34,8 +27,9 @@ function highAndLow(numbers){
   return `${maxnum} ${minnum}`
 }
 ```
+__________________________________________
 ## Languages 
-_________________________________
-Russian
-Belarussian
-English (A2)
+
+Russian 
+Belarussian 
+English (A2) 
